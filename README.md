@@ -4,7 +4,7 @@ A Cava "wrapper" to add in playerctl support. Written in Python, so not very per
 
 This project is probably LINUX ONLY. I will not be working on adding Windows/Mac support, but if you send a PR for that then I might merge it.
 
-The font used is from (here)[https://www.fontspace.com/airbeat-font-f96290].
+The font used is from [here](https://www.fontspace.com/airbeat-font-f96290).
 
 ## Installing
 
